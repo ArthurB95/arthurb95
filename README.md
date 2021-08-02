@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on mobile application
 - 🌱 I’m currently learning React Native and Android development
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on mobile applications that transform people's lives
 - 🤔 I’m looking for help with mobile development
 - 💬 Ask me about Android or React Native
 - 📫 How to reach me: arthurbic95@gmail.com
