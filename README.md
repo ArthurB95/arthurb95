@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with mobile development
 - 💬 Ask me about Android or React Native
 - 📫 How to reach me: arthurbic95@gmail.com
-- ⚡ Fun fact: I'm geologist and I love nature 
+- ⚡ Fun fact: I'm geologist and I love nature 🌳
 
  <div>
   <a href="https://github.com/arthurb95">
