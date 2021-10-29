@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Arthur Bicalho
+### Hi there <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Arthur Bicalho
 
 - 🔭 I’m currently working on mobile application
 - 🌱 I’m currently learning React Native and Android development
@@ -28,7 +28,7 @@
 </div>
   
   ##
-
+  <h3>Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
   <a href = "mailto:arthurbic95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-bicalho-a16b0516a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
