@@ -7,6 +7,7 @@
 - 💬 Ask me about Android or React Native
 - 📫 How to reach me: arthurbic95@gmail.com
 - ⚡ Fun fact: I'm geologist and I love nature 🌳
+- 👨‍💻 Access my portfolio: https://arthurbicalho.netlify.app/
 
  <div>
   <a href="https://github.com/arthurb95">
