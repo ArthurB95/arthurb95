@@ -1,10 +1,10 @@
 ### Hi there <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Arthur Bicalho
 
-- 🔭 I’m currently working on mobile application
-- 🌱 I’m currently learning React Native and Android development
-- 👯 I’m looking to collaborate on mobile applications that transform people's lives
+- 🔭 I’m currently working on backend application
+- 🌱 I’m currently learning JAVA and Spring Boot development
+- 👯 I’m looking to collaborate on backend applications that transform people's lives
 - 🤔 I’m looking for help with mobile development
-- 💬 Ask me about Android or React Native
+- 💬 Ask me about JAVA, AWS, Spring Boot, Micronaut and Backend Development
 - 📫 How to reach me: arthurbic95@gmail.com
 - ⚡ Fun fact: I'm geologist and I love nature 🌳
 - 👨‍💻 Access my portfolio: https://arthurbicalho.netlify.app/
