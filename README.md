@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on backend application
 - 🌱 I’m currently learning JAVA and Spring Boot development
 - 👯 I’m looking to collaborate on backend applications that transform people's lives
-- 🤔 I’m looking for help with mobile development
+- 🤔 I’m looking for help with backend development
 - 💬 Ask me about JAVA, AWS, Spring Boot, Micronaut and Backend Development
 - 📫 How to reach me: arthurbic95@gmail.com
 - ⚡ Fun fact: I'm geologist and I love nature 🌳
